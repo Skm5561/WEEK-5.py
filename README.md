@@ -1,4 +1,5 @@
 📝 Description
+
 This mini-project combines two essential Python skills: file handling and error management. You'll create a Python program that:
 
 🖋️ Reads content from a file, modifies it (like removing unwanted lines or formatting the text), and writes the new version to a separate file.
